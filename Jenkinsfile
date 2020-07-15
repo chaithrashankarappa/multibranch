@@ -2,7 +2,7 @@ node
 {
 stage('Build')
 {
-echo "build after one min"
+echo "build after onennnnn min"
 }
 stage('test')
 {
