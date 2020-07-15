@@ -2,7 +2,7 @@ node
 {
 stage('Build')
 {
-echo "build"
+echo "build dev"
 }
 stage('test')
 {
